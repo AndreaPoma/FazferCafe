@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+}
+.ocultar{
+    display: none;
+}
+.mostrar{
+    display: block;
+}
+input{
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-size: 28px ;
+    display: 19px;
+    color: white;
+    background-color: rgb(10, 118, 87);;
+    border-color: rgb(10, 118, 87);;
+    margin-right: 8px;
+}
+h2, li, .letra{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+p, h1, h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: #605063;
+}
+.centrar{
+    display: 10%;
+    padding: 10px;
+    padding-left: 210px;
+    padding-right: 192px;
+}
+.color{
+    border: 3px rgb(10, 118, 87);
+    background-color: rgb(10, 118, 87);
+}
+.producto{
+    width: 550px;
+}
+.container{
+    margin-top: 20px;
+    margin-left: 90px;
+}
+hr{
+    color: white;
+}
